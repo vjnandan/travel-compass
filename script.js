@@ -11,7 +11,7 @@ const statusBox = document.getElementById("regStatus");
 dateInput.min = new Date().toISOString().split("T")[0];
 
 const destImages = {
-    "": "logo.png",
+    "": "placeholder.png",
     "Agra": "Agra.jpg",
     "Jaipur": "Jaipur.jpg",
     "Goa": "Goa.jpg",
